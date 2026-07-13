@@ -64,6 +64,39 @@
 ### 5. Refusing to merge unrelated histories
 **Solution:** Used:
 
+# Engineering Journal
+
+## Date: July 13, 2026
+
+### Lesson 4: Data Types, Operators and Calculator Challenge
+
+### What I Learned
+- Python data types (string, integer, float and boolean)
+- How to use the type() function
+- Arithmetic operators (+, -, *, /, //, %, **)
+- Comparison operators (==, !=, <, >, <=, >=)
+- How to get user input using input()
+- How to convert input to numbers using float()
+
+### Project Completed
+Built a simple calculator that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### Challenges Faced
+- I had some difficulty pushing my changes to GitHub because of Git and network issues.
+
+### How I Solved Them
+- I used Git commands (git add, git commit and git push) and learned how to troubleshoot Git errors with my mentor.
+
+### Reflection
+Today I learned how to build my first interactive Python program. I feel more confident using Git and GitHub than when I started.
+
+### Next Goal
+Learn Lesson 5 and continue building Python projects.
+
 git pull origin main --allow-unrelated-histories
 
 ---
