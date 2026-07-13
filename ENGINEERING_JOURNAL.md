@@ -114,6 +114,23 @@ Created a grading system that accepts a student's score and displays the correct
 ## How I Fixed Them
 - (Explain how you solved the mistakes.)
 
+# Lesson 5 - Conditional Statements
+
+## What I Learned
+- if statements
+- elif statements
+- else statements
+- Comparison operators in decision making
+
+## Challenge
+Created programs that make decisions based on user input, such as grading and age checks.
+
+## What I Discovered
+Python checks conditions from top to bottom and stops at the first one that is true.
+
+## Reflection
+I now understand why `elif` is used instead of multiple `if` statements.
+
 git pull origin main --allow-unrelated-histories
 
 ---
