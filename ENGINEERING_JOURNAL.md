@@ -97,6 +97,23 @@ Today I learned how to build my first interactive Python program. I feel more co
 ### Next Goal
 Learn Lesson 5 and continue building Python projects.
 
+# Lesson 5 - Conditional Statements
+
+## What I Learned
+- if statement
+- elif statement
+- else statement
+- Making decisions in Python
+
+## Challenge
+Created a grading system that accepts a student's score and displays the correct grade.
+
+## Errors I Made
+- (Write any mistakes you made.)
+
+## How I Fixed Them
+- (Explain how you solved the mistakes.)
+
 git pull origin main --allow-unrelated-histories
 
 ---
