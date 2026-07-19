@@ -131,6 +131,26 @@ Python checks conditions from top to bottom and stops at the first one that is t
 ## Reflection
 I now understand why `elif` is used instead of multiple `if` statements.
 
+## Lesson 6 – While Loops
+
+### What I Learned
+- A `while` loop repeats code while a condition is True.
+- A counter helps control how many times the loop runs.
+- The counter must be updated to prevent an infinite loop.
+- I used a `while` loop to create a multiplication table.
+
+### Challenge Completed
+Created a Python program that asks the user for a number and prints its multiplication table from 1 to 10.
+
+### Mistake I Made
+At first, I only printed the numbers 1 to 10 instead of multiplying the user's number by each multiplier.
+
+### What I Learned From My Mistake
+I learned that the multiplier and the user's number are separate values, and I need to multiply them together.
+
+### Next Goal
+Learn how to use `for` loops.
+
 git pull origin main --allow-unrelated-histories
 
 ---
